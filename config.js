@@ -13,7 +13,7 @@ const CONFIG = {
     btnReply: 'Gửi cho chú <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Bé biết mà 🥰. Yêu chú nhiều nhiều 😘😘',
-    messDesc: 'Chú phải yêu bé nhìu hơn nha. Đừng làm bé bùn nữa nha.',
+    messDesc: 'Chú phải yêu bé nhìu hơn nha. Đừng làm bé bùn nữa nha. Yêu chú <3 <3 <3',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
